@@ -21,7 +21,7 @@ The Web Crawler allows you to specify a list of target URLs to crawl. It fetches
 2. Change into the project directory:
 
     ```bash
-    cd web-crawler
+    cd cmlabs-backend-crawler-freelance-test
     ```
 
 3. Run the application:
